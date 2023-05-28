@@ -3,4 +3,4 @@ This is the code developed for my student-intern research, Image Classification 
 
 I will provide both the notebook and python file, in case you would want to see the results directly from github page
 
-Data can be downloaded from this [Google Drive](https://drive.google.com/drive/folders/1LYAL9fDhhkJBuVRwMlMMpDDio-f613lx?usp=sharing) folder
+Data can be downloaded from this [Google Drive](https://drive.google.com/drive/folders/1LYAL9fDhhkJBuVRwMlMMpDDio-f613lx?usp=sharing) folder. Script structures were adapted and modified from this online [Udemy course](https://www.udemy.com/course/convolutional-neural-networks-for-image-classification/) by Valentyn Sichkar
