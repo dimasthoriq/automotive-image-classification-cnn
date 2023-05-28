@@ -1,2 +1,2 @@
-# image-classification-automotive
-Developed for my student-intern research, only for academic purposes
+# About
+This is the code developed for my student-intern research, Image Classification For Automotive Assembling Plant Visual Inspection Task Using Convolutional Neural Network. This code is for academic purpose only and the paper report is not to be published whatsoever. The research purpose is to develop models that are capable to classify the paint colour of the car and whether it has a side mirror or not, given some image of a car. 
